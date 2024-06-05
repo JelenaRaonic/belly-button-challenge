@@ -11,6 +11,6 @@ This is a result of the Dashboard that I got.
 
 In this challenge I used Plotly and D3 libraries, and the languages used are HTML and JavaScript.
 
-It was interesting challenge to work on, and I appreciate help from tutoring servise. 
+It was interesting challenge to work on, and I appreciate help from tutoring service. 
 
 
